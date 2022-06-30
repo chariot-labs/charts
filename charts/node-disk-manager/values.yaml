@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: ghcr.io/chariot-labs/node-disk-manager:chariot-dev
+  repository: ghcr.io/chariot-labs/node-disk-manager
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: chariot-dev
