@@ -3,6 +3,16 @@ entries:
   node-disk-manager:
   - apiVersion: v2
     appVersion: v0.1.0
+    created: "2022-06-30T14:52:46.749243674Z"
+    description: Node Disk Manager Helm Chart
+    digest: d61dce924e4801da563b5926e921e9d22416dc85da39ea979e56979f5b88d4f7
+    name: node-disk-manager
+    type: application
+    urls:
+    - https://github.com/chariot-labs/charts/releases/download/node-disk-manager-0.0.0-dev.1/node-disk-manager-0.0.0-dev.1.tgz
+    version: 0.0.0-dev.1
+  - apiVersion: v2
+    appVersion: v0.1.0
     created: "2022-06-30T09:50:39.938604736Z"
     description: Node Disk Manager Helm Chart
     digest: 473a8e46d8a8a59145ee71b459a84ed6d81ee6c7559d05c67de1d160145cf3dd
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/chariot-labs/charts/releases/download/node-disk-manager-0.0.0-dev/node-disk-manager-0.0.0-dev.tgz
     version: 0.0.0-dev
-generated: "2022-06-30T14:46:19.096423369Z"
+generated: "2022-06-30T14:52:46.749258574Z"
